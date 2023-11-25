@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{AA9C5B87-4BE3-DDB7-5E27-5E85BA470F6C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SpoutShowcase",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
