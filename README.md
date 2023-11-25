@@ -10,11 +10,9 @@ You can use SpoutMediaPlayer to receive/play any Spout Source.
 
 It's all based on UE Builtin features, MediaCapture framework and MediaPlayer framework.
 
-
 Only tested on DirectX12.
 
 If you encounter any problems or need further assistance or clarification, please feel free to contact me.
-
 
 ## Getting Started
 ### SpoutMediaOutput & OBS
@@ -28,3 +26,8 @@ After installing OBS and the Spout2 plugin, you will see an additional "Spout2 C
 
 3. Run
 Open the L_SpoutMediaOutput level in the Unreal Engine project, and then run it. If everything is working correctly, you will see the viewport's image being synchronized in real-time to OBS.
+
+[Media Output Framework in Unreal Engine]
+You can also synchronize Texture Render Target 2D in real-time using the Capture Texture Render Target 2D method.
+For more information, you can refer to the official documentation. The link is as follows:
+https://docs.unrealengine.com/5.3/en-US/BlueprintAPI/Media/Output/
