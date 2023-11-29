@@ -13,6 +13,7 @@ It's all based on UE Builtin features, MediaCapture framework and MediaPlayer fr
 Only tested on DirectX12.
 
 This sample project is for testing purposes only. If you are satisfied with the test results, you can purchase this plugin from the Unreal Engine Official Marketplace.
+
 https://www.unrealengine.com/marketplace/en-US/product/spout-media
 
 If you encounter any problems or need further assistance or clarification, please feel free to contact me.
