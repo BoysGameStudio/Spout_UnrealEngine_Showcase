@@ -1,0 +1,12 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"Spout2": "UnrealEditor-Spout2.dll",
+		"SpoutLibrary": "UnrealEditor-SpoutLibrary.dll",
+		"SpoutMediaOutput": "UnrealEditor-SpoutMediaOutput.dll",
+		"SpoutMediaOutputEditor": "UnrealEditor-SpoutMediaOutputEditor.dll",
+		"SpoutMediaPlayer": "UnrealEditor-SpoutMediaPlayer.dll",
+		"SpoutMediaPlayerFactory": "UnrealEditor-SpoutMediaPlayerFactory.dll"
+	}
+}
